@@ -1,2 +1,2 @@
-# Kaggle_DataScience-Repository
+# Kaggle Data Science Repository
 Competitions,notebooks,datasets about Data Science
